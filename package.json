@@ -1,5 +1,5 @@
 {
-  "name": "Feedget-Server",
+  "name": "feedget-server",
   "version": "1.0.0",
   "description": "Back-end (database) for Feedget App",
   "main": "index.js",
